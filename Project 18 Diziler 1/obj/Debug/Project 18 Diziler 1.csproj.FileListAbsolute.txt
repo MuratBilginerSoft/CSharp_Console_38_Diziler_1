@@ -1,0 +1,7 @@
+c:\users\mrt_b\source\repos\Project 18 Diziler 1\Project 18 Diziler 1\bin\Debug\Project 18 Diziler 1.exe.config
+c:\users\mrt_b\source\repos\Project 18 Diziler 1\Project 18 Diziler 1\bin\Debug\Project 18 Diziler 1.exe
+c:\users\mrt_b\source\repos\Project 18 Diziler 1\Project 18 Diziler 1\bin\Debug\Project 18 Diziler 1.pdb
+c:\users\mrt_b\source\repos\Project 18 Diziler 1\Project 18 Diziler 1\obj\Debug\Project 18 Diziler 1.csprojAssemblyReference.cache
+c:\users\mrt_b\source\repos\Project 18 Diziler 1\Project 18 Diziler 1\obj\Debug\Project 18 Diziler 1.csproj.CoreCompileInputs.cache
+c:\users\mrt_b\source\repos\Project 18 Diziler 1\Project 18 Diziler 1\obj\Debug\Project 18 Diziler 1.exe
+c:\users\mrt_b\source\repos\Project 18 Diziler 1\Project 18 Diziler 1\obj\Debug\Project 18 Diziler 1.pdb
